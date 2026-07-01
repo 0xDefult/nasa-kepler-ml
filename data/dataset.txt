@@ -1,0 +1,3 @@
+Data Source -- https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative
+
+Resources - https://drive.google.com/drive/folders/1Le5_AkWSzFYEHKtRZkvl5xo9s72OONuX?usp=share_link
